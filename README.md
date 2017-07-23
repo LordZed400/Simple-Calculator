@@ -1,6 +1,6 @@
 # Simple Calculator
 
-This program was made in C++ to carry out simple arithmaticc operations like  
+This program was made in C++ to carry out simple arithmatic operations like  
 - Addition
 - Subtraction
 - Multiplication
